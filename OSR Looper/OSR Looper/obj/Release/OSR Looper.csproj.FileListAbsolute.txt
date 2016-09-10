@@ -1,0 +1,10 @@
+R:\OSR Looper\OSR Looper\bin\Release\OSR Looper.exe.config
+R:\OSR Looper\OSR Looper\bin\Release\OSR Looper.exe
+R:\OSR Looper\OSR Looper\bin\Release\OSR Looper.pdb
+R:\OSR Looper\OSR Looper\bin\Release\EPPlus.dll
+R:\OSR Looper\OSR Looper\obj\Release\OSR_Looper.Main.resources
+R:\OSR Looper\OSR Looper\obj\Release\OSR_Looper.Properties.Resources.resources
+R:\OSR Looper\OSR Looper\obj\Release\OSR Looper.csproj.GenerateResource.Cache
+R:\OSR Looper\OSR Looper\obj\Release\OSR Looper.exe
+R:\OSR Looper\OSR Looper\obj\Release\OSR Looper.pdb
+R:\OSR Looper\OSR Looper\bin\Release\ExcelLibrary.dll

@@ -1,0 +1,23 @@
+R:\OSR Looper\OSR Looper\OSR Looper\bin\Debug\OSR Looper.exe.config
+R:\OSR Looper\OSR Looper\bin\Debug\OSR Looper.exe.config
+R:\OSR Looper\OSR Looper\bin\Debug\OSR Looper.exe
+R:\OSR Looper\OSR Looper\bin\Debug\OSR Looper.pdb
+R:\OSR Looper\OSR Looper\bin\Debug\EPPlus.dll
+R:\OSR Looper\OSR Looper\obj\Debug\OSR_Looper.Main.resources
+R:\OSR Looper\OSR Looper\obj\Debug\OSR_Looper.Properties.Resources.resources
+R:\OSR Looper\OSR Looper\obj\Debug\OSR Looper.csproj.GenerateResource.Cache
+R:\OSR Looper\OSR Looper\obj\Debug\OSR Looper.exe
+R:\OSR Looper\OSR Looper\obj\Debug\OSR Looper.pdb
+R:\OSR Looper\OSR Looper\bin\Debug\ExcelLibrary.dll
+R:\OSR Looper\OSR Looper\obj\Debug\OSR Looper.csprojResolveAssemblyReference.cache
+R:\jl projects\OSR Looper\OSR Looper\bin\Debug\OSR Looper.exe.config
+R:\jl projects\OSR Looper\OSR Looper\obj\Debug\OSR Looper.exe
+R:\jl projects\OSR Looper\OSR Looper\obj\Debug\OSR Looper.pdb
+R:\jl projects\OSR Looper\OSR Looper\bin\Debug\OSR Looper.exe
+R:\jl projects\OSR Looper\OSR Looper\bin\Debug\OSR Looper.pdb
+R:\jl projects\OSR Looper\OSR Looper\bin\Debug\EPPlus.dll
+R:\jl projects\OSR Looper\OSR Looper\bin\Debug\ExcelLibrary.dll
+R:\jl projects\OSR Looper\OSR Looper\obj\Debug\OSR_Looper.Main.resources
+R:\jl projects\OSR Looper\OSR Looper\obj\Debug\OSR_Looper.Properties.Resources.resources
+R:\jl projects\OSR Looper\OSR Looper\obj\Debug\OSR Looper.csproj.GenerateResource.Cache
+R:\jl projects\OSR Looper\OSR Looper\obj\Debug\OSR Looper.csprojResolveAssemblyReference.cache
